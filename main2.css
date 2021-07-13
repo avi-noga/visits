@@ -1,0 +1,160 @@
+#signature-pad {
+    padding: 0 0 0 0; 
+    margin: 0 0 0 0;
+    border-radius: 10px !important;
+    width: 100%;
+    height: 100%;
+    border-width:5px;  
+    border-style:solid;
+}
+
+td a { 
+    display: block; 
+    border: none;
+    padding: 16px; 
+}
+
+.SearchBox {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    top: 11px;
+    bottom: 11px;
+    margin: auto;
+}
+
+.selectemp {
+    border: 0px; 
+    text-align: center;
+    width: 100%;
+    font-size:25px; 
+    background-color: transparent;
+    margin: 15px;
+    padding-right: 20px;
+    padding-left: 20px;
+    overflow-wrap: break-word;
+}
+
+.selectmet {
+    border: 0px; 
+    text-align: center;
+    width: 100%;
+    font-size:25px; 
+    background-color: transparent;
+    margin: 15px;
+    padding-right: 20px;
+    padding-left: 20px;
+    overflow-wrap: break-word;
+}
+
+.bootstrap-select.btn-group .dropdown-toggle .filter-option {
+    width: 100%;
+    text-align: right;
+}
+
+.bootstrap-select > .dropdown-toggle {
+    width: 100%;
+    direction: rtl;
+    padding-right: 25px;
+    padding-left: 25px;
+    margin: 10px;
+}
+
+.bootstrap-select > .show-tick {
+    writing-mode: vertical-rl;
+}
+
+.input14 {
+    position: relative;
+    display: block;
+    outline: 0;
+    z-index: 4;
+    width: 100%;
+    direction: rtl;
+    color: #702a8a;
+    padding: 10px;
+    border: 0.5px #857777 solid;
+    border-radius: 4px;
+    text-align: inherit;
+    font-size: 21px;
+    background: #fff;
+    margin-top: 9px;
+}
+
+.table>tbody>tr>td, .table>tbody>tr>th, .table>tfoot>tr>td, .table>tfoot>tr>th, .table>thead>tr>td, .table>thead>tr>th {
+    padding: 8px;
+    line-height: 1.42857143;
+    vertical-align: inherit;
+    border-top: 1px solid #ddd;
+    text-align: center;
+    font-size: 14px;
+}
+
+table {
+  text-align: right;
+  position: relative;
+  border-collapse: collapse; 
+}
+
+th {
+  background: white;
+  position: sticky;
+  top: 0; /* Don't forget this, required for the stickiness */
+  box-shadow: 0 2px 2px -1px rgba(0, 0, 0, 0.4);
+}
+
+input:disabled {
+    background: #ccc;
+}
+
+
+.navbar-header {
+    float: none;
+}
+.navbar-toggle {
+    display: block;
+}
+.navbar-collapse.collapse {
+    display: none!important;
+}
+.navbar-nav {
+    float: none!important;
+}
+.navbar-nav>li {
+    float: none;
+}
+.navbar-collapse.collapse.in{
+    display:block !important;
+}
+
+.swal-title {
+    margin: 0px;
+    font-size: 20px;
+    box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.21);
+    margin-bottom: 28px;
+}
+
+#swal2-content {
+    background-color: #FEFAE3;
+    padding: 17px;
+    border: 1px solid #F0E1A1;
+    display: block;
+    margin: 22px;
+    text-align: center;
+    color: #61534e;
+    font-size: 20px;
+}
+
+.swal2-confirm {
+  font-size: 20px !important;
+}
+
+
+.swal2-cancel {
+  font-size: 20px !important;
+}
+
+.notice {
+    font-size: 20px;
+}
+
+
